@@ -1,5 +1,5 @@
 Inventory Management System with GUI
-This Python-based inventory management system features a graphical user interface (GUI) and a local database to store items. 
+This Python-based inventory management system features a graphical user interface (GUI) and a local database to store items. I developed this project in my 3rd year as a way to practice and improve my Python skills.
 
 The application allows users to:
 Add, remove, search, and update items in the inventory.
